@@ -8,4 +8,6 @@ Studying cyber security in Canada :canada: ? Don't know where to start your care
 | NetSPI    | https://www.netspi.com/|
 |1Password  | https://1password.com/|
 |CYDEF      | https://cydef.ca/|
-|
+|2Keys      | https://2keys.ca/|
+|eSentire   | https://www.esentire.com/|
+|Auth0      | https://auth0.com|
