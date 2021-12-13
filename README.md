@@ -11,3 +11,4 @@ Studying cyber security in Canada :canada: ? Don't know where to start your care
 |2Keys      | https://2keys.ca/|
 |eSentire   | https://www.esentire.com/|
 |Auth0      | https://auth0.com|
+|MANDIANT   | https://www.mandiant.com/|
